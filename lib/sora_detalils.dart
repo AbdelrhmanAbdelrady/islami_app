@@ -1,6 +1,3 @@
-import 'dart:ui';
-
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:islame2/soramodel.dart';
@@ -48,7 +45,7 @@ class _SoraDetailsScreenState extends State<SoraDetailsScreen> {
               child: ListView.separated(
                 separatorBuilder: (context,index)=>Divider(
                   indent: 40,
-                  endIndent:40 ,
+                  endIndent:30 ,
                   thickness: 1,
 
 
