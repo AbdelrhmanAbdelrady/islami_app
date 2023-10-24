@@ -52,6 +52,8 @@ class _SoraDetailsScreenState extends State<SoraDetailsScreen> {
                   thickness: 1,
 
 
+
+
                 ),
 
                 itemBuilder: (context, index) {
