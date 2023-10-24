@@ -49,7 +49,7 @@ class _SoraDetailsScreenState extends State<SoraDetailsScreen> {
                 separatorBuilder: (context,index)=>Divider(
                   indent: 40,
                   endIndent:40 ,
-                  thickness: 1,
+                  thickness: 2,
 
 
 
