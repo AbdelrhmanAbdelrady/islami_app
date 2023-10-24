@@ -48,7 +48,6 @@ class _SoraDetailsScreenState extends State<SoraDetailsScreen> {
               child: ListView.separated(
                 separatorBuilder: (context,index)=>Divider(
                   indent: 40,
-
                   endIndent:40 ,
                   thickness: 1,
 
