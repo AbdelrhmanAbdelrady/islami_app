@@ -4,6 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 class ThemeConst {
   static Color primcolor=Color(0xffB7935F);
   static Color darkcolor=Color(0xff242424);
+
   static ThemeData ligthTheme = ThemeData(
     scaffoldBackgroundColor: Colors.transparent,
     textTheme: TextTheme(
